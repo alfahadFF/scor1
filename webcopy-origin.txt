@@ -1,0 +1,72 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/32px.png
+File Name: G:\New folder\www.hidromek.com\ajax\libs\jstree\3.2.1\themes\default\32px.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/40px.png
+File Name: G:\New folder\www.hidromek.com\ajax\libs\jstree\3.2.1\themes\default\40px.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/style.min.css
+File Name: G:\New folder\www.hidromek.com\ajax\libs\jstree\3.2.1\themes\default\style.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jstree/3.2.1/themes/default/throbber.gif
+File Name: G:\New folder\www.hidromek.com\ajax\libs\jstree\3.2.1\themes\default\throbber.gif
+Content Type: image/gif
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/slick-lightbox/0.2.12/slick-lightbox.css
+File Name: G:\New folder\www.hidromek.com\ajax\libs\slick-lightbox\0.2.12\slick-lightbox.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap
+File Name: G:\New folder\www.hidromek.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: G:\New folder\www.hidromek.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: G:\New folder\www.hidromek.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: G:\New folder\www.hidromek.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: G:\New folder\www.hidromek.com\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: G:\New folder\www.hidromek.com\s\poppins\v24\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://www.hidromek.com/assets/css/prod/app.min.css?v=1.0.0.7222
+File Name: G:\New folder\www.hidromek.com\assets\css\prod\app.min.css
+Content Type: text/css
+
+Uri: https://www.hidromek.com/assets/css/prod/custom/index.css?v=1.0.0.7222
+File Name: G:\New folder\www.hidromek.com\assets\css\prod\custom\index.css
+Content Type: text/css
+
+Uri: https://www.hidromek.com/assets/css/prod/custom/semantic-headings.css?v=1.0.0.7222
+File Name: G:\New folder\www.hidromek.com\assets\css\prod\custom\semantic-headings.css
+Content Type: text/css
+
+Uri: https://www.hidromek.com/europe-EN
+File Name: G:\New folder\www.hidromek.com\europe-EN.html
+Content Type: text/html
+
+Uri: https://www.hidromek.com/favicon-16x16.png
+File Name: G:\New folder\www.hidromek.com\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://www.hidromek.com/manifest.json
+File Name: G:\New folder\www.hidromek.com\manifest.json
+Content Type: application/json
+
+Uri: https://www.hidromek.com/safari-pinned-tab.svg
+File Name: G:\New folder\www.hidromek.com\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
